@@ -1,3 +1,0 @@
-model: 'gpt-4o'
-chunk_size: 5
-top_k: 3
