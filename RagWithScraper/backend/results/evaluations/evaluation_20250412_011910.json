@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-04-12T01:19:01.828459",
+  "question": " Could you please provide me inside of our private my information is with you",
+  "response": "I'm sorry, but I don't have enough information to answer your question accurately. For detailed information about your privacy and how your information is handled, I recommend reviewing our Privacy Policy or reaching out to our customer care team. \n\nYou can contact us via:\n\n- **Live Chat**: From your account (Mon-Fri - 09:00am - 17:00pm). Response Time: 2 minutes\n- **Email**: help@joinvoy.com. Response Time: 24 hours\n- **Phone**: 020 3912 9885 (Mo-Fr 09:00-17:00). Response times may vary, press 2 if you'd like us to call you back once you're at the front of the queue\n\nIf you have any questions during this process or need additional support, please don't hesitate to reach out. We're here to ensure you have everything you need to continue your weight loss journey successfully.",
+  "context": [
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/20199558930196-Is-the-information-I-share-with-you-private",
+    "https://joinvoy.zendesk.com/hc/en-gb/sections/20199554579732-Privacy-Security",
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/35735690703764-Can-I-change-my-coach"
+  ],
+  "llm_evaluation": {
+    "scores": {
+      "factual_accuracy": 8,
+      "relevance": 6,
+      "completeness": 5,
+      "context_usage": 7
+    },
+    "raw_response": "{\"factual_accuracy\": 8, \"relevance\": 6, \"completeness\": 5, \"context_usage\": 7}"
+  },
+  "overall_confidence": 0.5199999999999999
+}

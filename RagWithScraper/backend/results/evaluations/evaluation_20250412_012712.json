@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-04-12T01:27:11.841002",
+  "question": "Where is my order?",
+  "response": "We understand you're excited to receive your treatment and begin your weight loss journey with Voy.\n\nIf you're ever unsure when your order will arrive, here's how to track your order:\n\n## Tracking Your Order\n\nYou can track your order from your account or by using the tracking links sent to the email address on your account.\n\n**1\\. From your account**\n\n- **Manage plans and order:** Here you can see whether your subscription is active, pending or cancelled. If your subscription is active, click on your treatment. On the next page you'll be able to see your 'Current order', click 'Track' to see the details of your delivery.\n- **Order History:** Here you'll be able to see the statuses of each order and track your previous orders using the 'track delivery' button.\n\n**2\\. From the 'your order has been dispatched' email**\n\n- **Tracking Email**: You'll receive an email from Voy and our delivery partner with a tracking link. This email typically arrives in the evening, so don't worry if you haven't received it before 5 pm.\n- **Direct Tracking**: You can also track your order directly on the\u00a0[Royal Mail tracking page](https://www.royalmail.com/track-your-item#/ \"https://www.royalmail.com/track-your-item#/\"). Use the 'Track your order' button in your email.\n\n**3\\. From the App**\n\n- Open the **Voy App** and click on the \"Plan\" Tab\n- Find your most recent order and click on \" **Track Order**\", here you will be able to see the tracking status of the order and track where the order is.\n\n## If You Haven't Received Tracking Information\n\nIf it's been more than two days since your order was approved:\n\n- Check your spam/junk mail folder for the tracking details.\n- Check the status of your order from your account\n- Contact customer support via live chat on your account or help@joinvoy.com\n\nIf you have any questions during this process or need additional support, please don't hesitate to reach out. We're here to ensure you have everything you need to continue your weight loss journey successfully.",
+  "context": [
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/20199416561172-Where-is-my-order",
+    "https://joinvoy.zendesk.com/hc/en-gb/categories/20198003106068-Orders-Delivery",
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/20199921645204-My-treatment-arrived-faulty-or-damaged"
+  ],
+  "llm_evaluation": {
+    "scores": {
+      "factual_accuracy": 0,
+      "relevance": 0,
+      "completeness": 0,
+      "context_usage": 0
+    },
+    "raw_response": "Evaluation failed: Error code: 400 - {'error': {'message': \"Unsupported parameter: 'temperature' is not supported with this model.\", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_parameter'}}"
+  },
+  "overall_confidence": 0.0
+}

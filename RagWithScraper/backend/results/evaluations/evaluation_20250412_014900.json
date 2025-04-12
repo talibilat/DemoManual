@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-04-12T01:48:55.044750",
+  "question": "Hi",
+  "response": "Hello! How can I assist you today?",
+  "context": [
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/35735690703764-Can-I-change-my-coach",
+    "https://joinvoy.zendesk.com/hc/en-gb",
+    "https://joinvoy.zendesk.com/hc/en-gb/sections/20198488248468-Have-a-question"
+  ],
+  "llm_evaluation": {
+    "scores": {
+      "factual_accuracy": 10,
+      "relevance": 10,
+      "completeness": 10,
+      "context_usage": 0
+    },
+    "raw_response": "{\"factual_accuracy\": 10, \"relevance\": 10, \"completeness\": 10, \"context_usage\": 0}"
+  },
+  "overall_confidence": 0.6
+}

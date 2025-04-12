@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-04-12T01:49:27.198463",
+  "question": "Order Number",
+  "response": "I don't have enough information to answer accurately about the order number. Please contact customer care for assistance:\n\n- **Live Chat:** Contact us via chat from your account (Mon-Fri - 09:00am - 17:00pm). Response Time: 2 minutes\n- **Email:** Contact us at help@joinvoy.com. Response Time: 24 hours\n- **Phone:** Call us at 020 3912 9885 (Mo-Fr 09:00-17:00). Response times may vary, press 2 if you'd like us to call you back once you're at the front of the queue\n\nIf you have any questions during this process or need additional support, please don't hesitate to reach out. We're here to ensure you have everything you need to continue your weight loss journey successfully.",
+  "context": [
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/20199416561172-Where-is-my-order",
+    "https://joinvoy.zendesk.com/hc/en-gb/categories/20198003106068-Orders-Delivery",
+    "https://joinvoy.zendesk.com/hc/en-gb"
+  ],
+  "llm_evaluation": {
+    "scores": {
+      "factual_accuracy": 8,
+      "relevance": 4,
+      "completeness": 3,
+      "context_usage": 2
+    },
+    "raw_response": "{\"factual_accuracy\": 8, \"relevance\": 4, \"completeness\": 3, \"context_usage\": 2}"
+  },
+  "overall_confidence": 0.34
+}

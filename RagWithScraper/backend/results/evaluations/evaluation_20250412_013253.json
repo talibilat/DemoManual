@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-04-12T01:32:48.876560",
+  "question": "I have ordered from your website, however I am worried about it like I have no idea where it is and what can I do?",
+  "response": "I understand your concern about your order. You can track your order from your account or by using the tracking links sent to the email address on your account. Here\u2019s how you can do it:\n\n1. **From your account**:\n   - Go to **Manage plans and order** to see if your subscription is active. Click on your treatment to view your 'Current order' and click 'Track' for delivery details.\n   - Check **Order History** to see the statuses of each order and track previous orders using the 'track delivery' button.\n\n2. **From the 'your order has been dispatched' email**:\n   - Look for a tracking email from Voy and our delivery partner with a tracking link. This email usually arrives in the evening.\n\n3. **From the App**:\n   - Open the **Voy App**, click on the \"Plan\" Tab, find your most recent order, and click on \"Track Order\" to see the tracking status.\n\nIf you haven't received tracking information and it's been more than two days since your order was approved, check your spam/junk mail folder for tracking details, check the status of your order from your account, or contact customer support via live chat on your account or email at help@joinvoy.com.\n\nIf you need further assistance, please reach out to our customer care:\n- **Live Chat**: Contact us via chat from your account (Mon-Fri - 09:00am - 17:00pm). Response Time: 2 minutes\n- **Email**: Contact us at help@joinvoy.com. Response Time: 24 hours\n- **Phone**: Call us at 020 3912 9885 (Mo-Fr 09:00-17:00). Response times may vary, press 2 if you'd like us to call you back once you're at the front of the queue.",
+  "context": [
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/20199416561172-Where-is-my-order",
+    "https://joinvoy.zendesk.com/hc/en-gb/categories/20198003106068-Orders-Delivery",
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/20199921645204-My-treatment-arrived-faulty-or-damaged"
+  ],
+  "llm_evaluation": {
+    "scores": {
+      "factual_accuracy": 10,
+      "relevance": 10,
+      "completeness": 10,
+      "context_usage": 10
+    },
+    "raw_response": "{\"factual_accuracy\": 10, \"relevance\": 10, \"completeness\": 10, \"context_usage\": 10}"
+  },
+  "overall_confidence": 0.8
+}

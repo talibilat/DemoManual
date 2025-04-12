@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-04-12T01:55:19.651034",
+  "question": "How can I refer a friend explain in detail",
+  "response": "To refer a friend to Voy, follow these steps:\n\n1. Log into your Voy account.\n2. Navigate to your [Refer a Friend](https://www.joinvoy.com/account/refer) page, which is located in the top right corner of your account.\n3. Click the orange 'copy' button next to your referral link.\n4. Share this link with your friend by pasting it in a message.\n\nYour friend must use this link when placing their order to receive a 25% discount on their first order. Once your friend places an order and it is approved, you will earn a discount on your next order. The discount you receive depends on how many friends you refer:\n\n- One or two friends: 30% off your next order\n- Three or more friends: 60% off your next order\n\nYou can track your discounts on your [Refer a Friend page](https://www.joinvoy.com/account/refer). Note that the discount resets after each order is processed.",
+  "context": [
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/26154029658388-How-does-refer-a-friend-work",
+    "https://joinvoy.zendesk.com/hc/en-gb/sections/20198655711124-Subscription-Management",
+    "https://joinvoy.zendesk.com/hc/en-gb/sections/20198488248468-Have-a-question"
+  ],
+  "llm_evaluation": {
+    "scores": {
+      "factual_accuracy": 10,
+      "relevance": 10,
+      "completeness": 10,
+      "context_usage": 10
+    },
+    "raw_response": "{\"factual_accuracy\": 10, \"relevance\": 10, \"completeness\": 10, \"context_usage\": 10}"
+  },
+  "overall_confidence": 0.8
+}

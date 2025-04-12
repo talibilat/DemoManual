@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-04-12T01:18:25.066325",
+  "question": "Is the information I share with you private?",
+  "response": "### Is the information I share with you private?\n\nYes, we take your privacy and security information very seriously. We have designed the platform to comply with all the relevant privacy laws and have implemented security protocols to protect your personal information.\n\nPlease read our [Privacy Policy](https://joinvoy.zendesk.com/hc/en-gb/articles/20199558930196-Is-the-information-I-share-with-you-private) for more information.\n\nIf you have any further questions or need additional support, please don't hesitate to reach out. We're here to ensure you have everything you need to continue your weight loss journey successfully. You can contact us via:\n\n- **Live Chat**: Contact us via chat from your account (Mon-Fri - 09:00am - 17:00pm). Response Time: 2 minutes\n- **Email**: Contact us at help@joinvoy.com. Response Time: 24 hours\n- **Phone**: Call us at 020 3912 9885 (Mo-Fr 09:00-17:00). Response times may vary, press 2 if you'd like us to call you back once you're at the front of the queue",
+  "context": [
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/20199558930196-Is-the-information-I-share-with-you-private",
+    "https://joinvoy.zendesk.com/hc/en-gb/sections/20199554579732-Privacy-Security",
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/20170440761748-Can-I-use-a-prescription-from-my-own-GP-on-your-website"
+  ],
+  "llm_evaluation": {
+    "scores": {
+      "factual_accuracy": 10,
+      "relevance": 10,
+      "completeness": 10,
+      "context_usage": 10
+    },
+    "raw_response": "{\"factual_accuracy\": 10, \"relevance\": 10, \"completeness\": 10, \"context_usage\": 10}"
+  },
+  "overall_confidence": 0.8
+}

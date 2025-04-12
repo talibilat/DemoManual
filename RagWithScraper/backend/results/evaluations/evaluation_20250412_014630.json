@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-04-12T01:46:24.870007",
+  "question": "Order status",
+  "response": "I don't have enough information to answer accurately about the order status. Please contact customer care for assistance:\n\n- **Live Chat:** Contact us via chat from your account (Mon-Fri - 09:00am - 17:00pm). Response Time: 2 minutes\n- **Email:** Contact us at help@joinvoy.com. Response Time: 24 hours\n- **Phone:** Call us at 020 3912 9885 (Mo-Fr 09:00-17:00). Response times may vary, press 2 if you'd like us to call you back once you're at the front of the queue.",
+  "context": [
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/20199416561172-Where-is-my-order",
+    "https://joinvoy.zendesk.com/hc/en-gb/categories/20198003106068-Orders-Delivery",
+    "https://joinvoy.zendesk.com/hc/en-gb"
+  ],
+  "llm_evaluation": {
+    "scores": {
+      "factual_accuracy": 8,
+      "relevance": 7,
+      "completeness": 5,
+      "context_usage": 3
+    },
+    "raw_response": "{\"factual_accuracy\": 8, \"relevance\": 7, \"completeness\": 5, \"context_usage\": 3}"
+  },
+  "overall_confidence": 0.45999999999999996
+}

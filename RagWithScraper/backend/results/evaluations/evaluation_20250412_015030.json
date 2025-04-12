@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-04-12T01:50:22.934004",
+  "question": "I have ordered from your website and I would like to know the order status",
+  "response": "I don't have enough information to answer accurately. To check the status of your order, you can track it from your account or use the tracking links sent to your email. If you need further assistance, please contact customer care:\n\n- **Live Chat**: Contact us via chat from your account (Mon-Fri - 09:00am - 17:00pm). Response Time: 2 minutes\n- **Email**: Contact us at help@joinvoy.com. Response Time: 24 hours\n- **Phone**: Call us at 020 3912 9885 (Mo-Fr 09:00-17:00). Response times may vary, press 2 if you'd like us to call you back once you're at the front of the queue\n\nIf you have any questions during this process or need additional support, please don't hesitate to reach out.",
+  "context": [
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/20199416561172-Where-is-my-order",
+    "https://joinvoy.zendesk.com/hc/en-gb/categories/20198003106068-Orders-Delivery",
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/20199921645204-My-treatment-arrived-faulty-or-damaged"
+  ],
+  "llm_evaluation": {
+    "scores": {
+      "factual_accuracy": 9,
+      "relevance": 10,
+      "completeness": 9,
+      "context_usage": 9
+    },
+    "raw_response": "{\"factual_accuracy\": 9, \"relevance\": 10, \"completeness\": 9, \"context_usage\": 9}"
+  },
+  "overall_confidence": 0.74
+}

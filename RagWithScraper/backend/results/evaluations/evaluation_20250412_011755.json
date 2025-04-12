@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-04-12T01:17:50.045621",
+  "question": " I am worried about the information I'm sharing with you. Could you please share me? How do use that?",
+  "response": "I'm sorry, but I don't have enough information to answer your question accurately based on the provided context. However, I can assure you that Voy takes your privacy and security very seriously. We comply with all relevant privacy laws and have implemented security protocols to protect your personal information.\n\nFor more detailed information, I recommend reading our [Privacy Policy](https://joinvoy.zendesk.com/hc/en-gb/articles/20199558930196-Is-the-information-I-share-with-you-private).\n\nIf you have further questions or need additional support, please don't hesitate to reach out to our customer care team:\n\n- **Live Chat**: Contact us via chat from your account (Mon-Fri - 09:00am - 17:00pm). Response Time: 2 minutes\n- **Email**: Contact us at help@joinvoy.com. Response Time: 24 hours\n- **Phone**: Call us at 020 3912 9885 (Mo-Fr 09:00-17:00). Response times may vary, press 2 if you'd like us to call you back once you're at the front of the queue\n\nWe're here to ensure you have everything you need to continue your weight loss journey successfully.",
+  "context": [
+    "https://joinvoy.zendesk.com/hc/en-gb/sections/20199554579732-Privacy-Security",
+    "https://joinvoy.zendesk.com/hc/en-gb/articles/20199558930196-Is-the-information-I-share-with-you-private",
+    "https://joinvoy.zendesk.com/hc/en-gb/sections/20198488248468-Have-a-question"
+  ],
+  "llm_evaluation": {
+    "scores": {
+      "factual_accuracy": 9,
+      "relevance": 8,
+      "completeness": 9,
+      "context_usage": 10
+    },
+    "raw_response": "{\"factual_accuracy\": 9, \"relevance\": 8, \"completeness\": 9, \"context_usage\": 10}"
+  },
+  "overall_confidence": 0.72
+}
