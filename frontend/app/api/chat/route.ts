@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 
 // In Docker, we need to use the service name as the hostname
 const API_URL = process.env.NODE_ENV === 'production' 
-  ? 'http://backend:8000'
+  ? 'backend-manual-case-study-bxbgdme4bnhqf3fk.eastus-01.azurewebsites.net'
   : 'http://localhost:8000';
 
 export async function POST(request: Request) {
